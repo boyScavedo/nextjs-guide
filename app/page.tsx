@@ -47,6 +47,7 @@ export default function Page() {
           />
         </div>
       </div>
+      <div className="text-[#0070f3] text-5xl text-center">JEEVAN ADHIKARI</div>
     </main>
   );
 }
